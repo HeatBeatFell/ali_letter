@@ -1,24 +1,17 @@
 # ali_letter
+## 项目设置
 
-## Project setup
-```
-npm install
-```
+` npm install `
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 编译和热重装以进行开发
 
-### Compiles and minifies for production
-```
-npm run build
-```
+` npm run serve `
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 编译并最小化生产
+` nom run build `
+## 整理和修复文件
+` npm run lint `
+## 自定义配置
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+请参阅[配置参考](https://cli.vuejs.org/config/)
+
